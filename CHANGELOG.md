@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.4 — 2026-10-29 (photographs located in repository)
+- Confirmed that all four photographic file paths exist on the public main branch.
+- Updated README to link directly to each image and removed obsolete pending-upload wording.
+- File existence is verified; visual integrity and image metadata have not been independently audited.
+
+
 ## 0.2.3 — 2026-10-29 (photo evidence inventory)
 - Added a transparent inventory and intended filenames for four photographs: product, diluent and two syringe views.
 - Added limits of interpretation for each image; binary photos are still pending upload, not represented as published.
