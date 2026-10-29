@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.2 — 2026-10-29 (U-100 syringe documentation)
+- Participant-provided photographs identify a U-100 insulin syringe with 0.3 mL / 30-unit capacity.
+- Corrected 10 syringe units to 0.10 mL; the previous 0.01 mL estimate was inconsistent with the scale.
+- Documented conditional nominal calculation (10 mg/3 mL, 0.333 mg per reported 0.10 mL) without presenting it as measured delivered dose or dosing guidance.
+- Actual historical fill level, chemical identity, purity, concentration, and delivered dose remain unverified; syringe photographs are not yet hosted in the repository.
+
 ## 0.2.1 — 2026-10-29 (diluent label documentation)
 - Participant-supplied photograph shows a product labeled NEW ALPHA PRIME LABS, bacteriostatic water, 3 mL, and 0.9% benzyl alcohol.
 - Label content is not independent verification of composition, sterility, quality or actual volume transferred.
