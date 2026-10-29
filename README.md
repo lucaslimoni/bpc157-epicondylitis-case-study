@@ -1,10 +1,10 @@
 # BPC-157 and Bilateral Epicondylitis: A Longitudinal Self-Reported Case Study
 
-> **Status:** preliminary, uncontrolled self-report (N=1), version 0.2.0, last updated 2026-10-29. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
+> **Status:** preliminary, uncontrolled self-report (N=1), version 0.2.2, last updated 2026-10-29. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
 
 ## Abstract (preliminary)
 
-An adult former powerlifting athlete reports longstanding bilateral elbow pain, worsened approximately six months before October 2026, and physician-diagnosed epicondylitis supported by reported physical examination, ultrasound, and MRI. Prior approaches included physiotherapy, strengthening, localized shock-wave-like treatment (exact modality not verified), and myofascial release; response to these approaches was not quantified. Baseline self-reported pain was 3–4/10 at rest, 9/10 during insufficiently warmed-up training, and 2–3/10 after warming up. The participant reported beginning subcutaneous exposure to a product labeled BPC-157 on 2026-10-28 and having completed two administrations by 2026-10-29. The participant reported pain around 0.5/10 and subjective improvement within the first 36 hours, with no adverse effects perceived as of reporting. Dose volume is **not verified** because reported syringe units and milliliters conflict. Concomitant retatrutide use continued unchanged. The observation cannot establish efficacy, safety, tendon regeneration, or causation; short follow-up, lack of blinding, no objective assessments, and uncertain product quality are major limitations.
+An adult former powerlifting athlete reports longstanding bilateral elbow pain, worsened approximately six months before October 2026, and physician-diagnosed epicondylitis supported by reported physical examination, ultrasound, and MRI. Prior approaches included physiotherapy, strengthening, localized shock-wave-like treatment (exact modality not verified), and myofascial release; response to these approaches was not quantified. Baseline self-reported pain was 3–4/10 at rest, 9/10 during insufficiently warmed-up training, and 2–3/10 after warming up. The participant reported beginning subcutaneous exposure to a product labeled BPC-157 on 2026-10-28 and having completed two administrations by 2026-10-29. The participant reported pain around 0.5/10 and subjective improvement within the first 36 hours, with no adverse effects perceived as of reporting. Photographs subsequently confirmed that the syringe model is U-100 (0.3 mL / 30-unit capacity). The previously reported 10-unit mark corresponds to 0.10 mL on this scale, rather than 0.01 mL; exact volume actually administered remains participant-reported, not independently verified. Concomitant retatrutide use continued unchanged. The observation cannot establish efficacy, safety, tendon regeneration, or causation; short follow-up, lack of blinding, no objective assessments, and uncertain product quality are major limitations.
 
 ## Participant and condition
 
@@ -31,9 +31,11 @@ Physiotherapy; strengthening exercises; localized 'microshocks' (type unspecifie
 
 - First reported administration: **2026-10-28**. Participant describes daily administration frequency and two administrations by 2026-10-29; exact per-dose times and second-date verification are not available.
 - Product labeled **NEW ALPHA / ALPHA BPC**, 10 mg lyophilized powder according to participant. Lot, expiration, independent identity/purity testing and certificate of analysis: not provided.
-- Reported diluent: 3 mL bacteriostatic water.
+- Reported diluent: 3 mL bacteriostatic water. A participant-provided photograph depicts a NEW ALPHA PRIME LABS vial labeled 3 mL and 0.9% benzyl alcohol. Label claims do not independently verify content, sterility, quality, or volume transferred.
 - Reported route/site: subcutaneous, abdominal area near umbilicus.
-- **Critical discrepancy:** each administration described as “10 UI, approximately 0.01 mL”. If the syringe is U-100, 10 marked units = 0.10 mL, **not** 0.01 mL. Syringe type, markings, true administered volume and delivered mg **must be verified before recording a numeric dose**. The vial's nominal concentration alone does not establish delivered dose, content or purity.
+- **Syringe identified from participant photos (2026-10-29):** insulin syringe labeled **U-100, 0.3 mL**, with a **30-unit** capacity. This identifies the scale of the syringe, not the plunger position during past injections. The participant previously reported reaching the **10-unit mark** per administration and incorrectly approximated this as **0.01 mL**. On a U-100 scale, 10 units correspond to **0.10 mL**. This corrects the unit conversion, but does not independently verify the historical fill level.
+- **Nominal calculation, not a verified administered dose:** if the vial contained the labeled 10 mg and exactly 3 mL was added, the nominal concentration would be **3.33 mg/mL**; a reported 0.10 mL administration would correspond to **0.333 mg (333 micrograms) nominally**. No independent identity, concentration, purity, syringe-fill, or actual dose verification exists. **This calculation describes a reported exposure and is not a dose recommendation.**
+- The syringe photos were inspected in the conversation but have not been uploaded to the repository.
 - No reported medical supervision. Participant characterizes sourcing as underground.
 
 ## Early outcome (2026-10-29)
@@ -50,14 +52,14 @@ Physiotherapy; strengthening exercises; localized 'microshocks' (type unspecifie
 1. Self-reported, retrospective and non-blinded N=1 observations without a control group.
 2. Baseline and follow-up pain are not measured at equivalent standardized activities or times; expectancy/placebo effects and natural variation are plausible.
 3. Very short follow-up; no sustained outcome established.
-4. Exact condition classification, imaging findings, product identity/purity, administered volume/dose and temporal exposures unverified.
+4. Exact condition classification, imaging findings, product identity/purity, actual administered volume/dose and temporal exposures unverified. Syringe *type and scale* are photo-confirmed.
 5. Concurrent medication and ongoing exercise are potential confounders.
 6. Pain relief is **not evidence of tendon structural healing**. Never use this case as a dosing recommendation or proof of efficacy.
 
 ## Data files
 
 - `data/observations.csv`: symptoms and functional observations; uncertain fields are blank or explicitly qualified.
-- `data/exposures.csv`: only documented exposure metadata; delivered dosage left empty pending syringe verification.
+- `data/exposures.csv`: reported exposure metadata, including **nominal/theoretical** volume and dose estimates; verified delivered dosage remains blank because syringe labeling alone cannot verify historical injections.
 - `OPEN_QUESTIONS.md`: details to verify in future updates.
 
 ## Ethics and disclosure
