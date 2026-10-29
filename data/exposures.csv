@@ -1,0 +1,3 @@
+date,administration_sequence,product_label,nominal_vial_mg,diluent,diluent_volume_ml,route,site,reported_syringe_marking,reported_volume_ml,actual_volume_ml_verified,delivered_mg_verified,verification_status,notes
+2026-10-28,1,NEW ALPHA / ALPHA BPC,10,bacteriostatic water,3,SC,abdomen near umbilicus,10 UI,0.01,,,unverified_syringe_units_conflict,Syringe type unknown; U-100 10 units would be 0.10 mL
+,2,NEW ALPHA / ALPHA BPC,10,bacteriostatic water,3,SC,abdomen near umbilicus,10 UI,0.01,,,unverified_date_and_syringe_units,Second administration reported by 2026-10-29; exact date not confirmed

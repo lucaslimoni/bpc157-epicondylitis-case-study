@@ -1,0 +1,5 @@
+date,period,elbow,context,pain_min_0_10,pain_max_0_10,pain_point_0_10,measurement_type,warmup,training_status,adverse_events_reported,notes
+,before_2026-10-28,bilateral,rest,3,4,,retrospective_self_report,,,,Baseline recalled on 2026-10-29; exact date unspecified
+,before_2026-10-28,bilateral,training before adequate warmup,9,9,,retrospective_self_report,no,,,
+,before_2026-10-28,bilateral,training after warmup,2,3,,retrospective_self_report,yes,,,
+2026-10-29,followup,bilateral,unspecified context,,,0.5,self_report,not standardized,continued,none perceived,Participant reports improvement within 36h; no standardized load/reps
