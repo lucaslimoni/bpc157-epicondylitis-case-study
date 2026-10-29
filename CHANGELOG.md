@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.3 — 2026-10-29 (photo evidence inventory)
+- Added a transparent inventory and intended filenames for four photographs: product, diluent and two syringe views.
+- Added limits of interpretation for each image; binary photos are still pending upload, not represented as published.
+
+
 ## 0.2.2 — 2026-10-29 (U-100 syringe documentation)
 - Participant-provided photographs identify a U-100 insulin syringe with 0.3 mL / 30-unit capacity.
 - Corrected 10 syringe units to 0.10 mL; the previous 0.01 mL estimate was inconsistent with the scale.
