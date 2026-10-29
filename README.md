@@ -1,6 +1,6 @@
 # BPC-157 and Bilateral Epicondylitis: A Longitudinal Self-Reported Case Study
 
-> **Status:** preliminary, uncontrolled self-report (N=1), version 0.2.3, last updated 2026-10-29. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
+> **Status:** preliminary, uncontrolled self-report (N=1), version 0.2.4, last updated 2026-10-29. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
 
 ## Abstract (preliminary)
 
@@ -56,18 +56,18 @@ Physiotherapy; strengthening exercises; localized 'microshocks' (type unspecifie
 5. Concurrent medication and ongoing exercise are potential confounders.
 6. Pain relief is **not evidence of tendon structural healing**. Never use this case as a dosing recommendation or proof of efficacy.
 
-## Photographic documentation (pending image upload)
+## Photographic documentation
 
-Four participant-supplied photographs from 2026-10-29 have been inspected. Their captions and intended repository paths are documented below. **The binary photo files have not yet been committed**; do not treat these filenames as currently accessible evidence.
+Four participant-supplied photographs from 2026-10-29 are now present in this public repository. The following links document product labeling and syringe equipment; they do not establish the identity, concentration or safety of the injected preparation.
 
-| Intended path | What the photograph documents | What it does not establish |
+| Published image | What the photograph documents | What it does not establish |
 |---|---|---|
-| `images/product-label-2026-10-29.png` | NEW ALPHA / ALPHA BPC label, 10 mg claim | Chemical identity, amount, purity or sterility |
-| `images/diluent-label-2026-10-29.png` | NEW ALPHA PRIME LABS bacteriostatic water label, 3 mL and 0.9% benzyl alcohol claims | Sterility, actual formulation or volume transferred |
-| `images/syringe-graduations-2026-10-29.png` | Syringe scale marked to 30 units | Actual historical fill or injected volume |
-| `images/syringe-u100-identification-2026-10-29.png` | Syringe labeled 0.3 mL, insulin U-100 | Validation of dosing technique or delivered mass |
+| [Product label](images/product-label-2026-10-29.png) | NEW ALPHA / ALPHA BPC label, 10 mg claim | Chemical identity, amount, purity or sterility |
+| [Diluent label](images/diluent-label-2026-10-29.png) | NEW ALPHA PRIME LABS bacteriostatic water label, 3 mL and 0.9% benzyl alcohol claims | Sterility, actual formulation or volume transferred |
+| [Syringe graduations](images/syringe-graduations-2026-10-29.png) | Syringe scale marked to 30 units | Actual historical fill or injected volume |
+| [U-100 identification](images/syringe-u100-identification-2026-10-29.png) | Syringe labeled 0.3 mL, insulin U-100 | Validation of dosing technique or delivered mass |
 
-The conversion of a *reported* 10-unit mark on a U-100 scale to 0.10 mL is arithmetic, not retrospective verification of an administered dose. Photographs must be published without personal metadata and with their original visual evidence intact. All four images are documentation of labels/equipment, **not evidence of efficacy or safety**.
+The conversion of a *reported* 10-unit mark on a U-100 scale to 0.10 mL is arithmetic, not retrospective verification of an administered dose. Files are present in GitHub; removal of identifying image metadata has not been independently audited. All four images are documentation of labels/equipment, **not evidence of efficacy or safety**.
 
 ## Data files
 
