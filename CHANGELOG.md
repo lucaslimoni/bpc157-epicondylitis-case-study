@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.0 — 2026-11-05
+- Added participant-reported continuation of daily 10-unit U-100 syringe routine and near-absence of elbow pain, without creating unverified daily injection records or claiming tissue recovery.
+- Recorded the single symptom-free post-hot-dog observation on 2026-10-30 after the meal on 2026-10-29 (before third reported application).
+- Explicitly rejected causal claims about systemic inflammation or mitigation of retatrutide effects.
+
+
 ## 0.2.4 — 2026-10-29 (photographs located in repository)
 - Confirmed that all four photographic file paths exist on the public main branch.
 - Updated README to link directly to each image and removed obsolete pending-upload wording.
