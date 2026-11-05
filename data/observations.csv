@@ -3,3 +3,5 @@ date,period,elbow,context,pain_min_0_10,pain_max_0_10,pain_point_0_10,measuremen
 ,before_2026-10-28,bilateral,training before adequate warmup,9,9,,retrospective_self_report,no,,,
 ,before_2026-10-28,bilateral,training after warmup,2,3,,retrospective_self_report,yes,,,
 2026-10-29,followup,bilateral,unspecified context,,,0.5,self_report,not standardized,continued,none perceived,Participant reports improvement within 36h; no standardized load/reps
+2026-10-30,followup,bilateral,post_meal_symptoms,,,,participant_self_report,not_applicable,not_assessed,,No next-day stomach pain or malaise after hot dog consumed 2026-10-29 before third reported administration; not a direct elbow pain measure
+2026-11-05,followup,bilateral,unspecified context,,,,participant_self_report,not_standardized,not_quantified,not_assessed,Reports nearly no remaining pain; no numeric rating or clinical imaging and no proof of tendon healing
