@@ -12,4 +12,7 @@
 - Author to review and explicitly approve exact text and identification before public posting.
 
 - Verify the participant-reported reconstitution volume (3 mL), actual vial content, and purity; 0.333 mg per reported 10-unit administration is a *nominal calculation only*, not a measured dose.
-- Syringe photos supplied on 2026-10-29 have not yet been uploaded to the repository.
+- **Resolved:** four photographs are linked in README. Authenticity of compounds and removal of image metadata remain unverified.
+
+- Follow-up 2026-11-05 reports nearly no elbow pain and continuing daily 10-unit syringe routine; obtain separate numeric left/right pain scores and actual injection dates if possible, without inventing missing records.
+- 2026-10-29 hot dog caused no customary next-day symptoms as reported 2026-10-30, before third administration; actual time and other meal variables unknown. Do not attribute gastrointestinal effects to BPC-157 or a combination with retatrutide.
