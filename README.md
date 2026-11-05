@@ -1,6 +1,6 @@
 # BPC-157 and Bilateral Epicondylitis: A Longitudinal Self-Reported Case Study
 
-> **Status:** preliminary, uncontrolled self-report (N=1), version 0.2.4, last updated 2026-10-29. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
+> **Status:** preliminary, uncontrolled self-report (N=1), version 0.3.0, last updated 2026-11-05. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
 
 ## Abstract (preliminary)
 
@@ -35,7 +35,7 @@ Physiotherapy; strengthening exercises; localized 'microshocks' (type unspecifie
 - Reported route/site: subcutaneous, abdominal area near umbilicus.
 - **Syringe identified from participant photos (2026-10-29):** insulin syringe labeled **U-100, 0.3 mL**, with a **30-unit** capacity. This identifies the scale of the syringe, not the plunger position during past injections. The participant previously reported reaching the **10-unit mark** per administration and incorrectly approximated this as **0.01 mL**. On a U-100 scale, 10 units correspond to **0.10 mL**. This corrects the unit conversion, but does not independently verify the historical fill level.
 - **Nominal calculation, not a verified administered dose:** if the vial contained the labeled 10 mg and exactly 3 mL was added, the nominal concentration would be **3.33 mg/mL**; a reported 0.10 mL administration would correspond to **0.333 mg (333 micrograms) nominally**. No independent identity, concentration, purity, syringe-fill, or actual dose verification exists. **This calculation describes a reported exposure and is not a dose recommendation.**
-- The syringe photos were inspected in the conversation but have not been uploaded to the repository.
+- The syringe photographs are linked in the photographic documentation section below.
 - No reported medical supervision. Participant characterizes sourcing as underground.
 
 ## Early outcome (2026-10-29)
@@ -82,3 +82,11 @@ This is an individual's voluntarily shared self-observation, **not** an approved
 ## Reference framework
 
 CARE case-report checklist: https://www.care-statement.org/ . References and regulatory statements to be curated with verification before any formal scientific submission.
+
+## Follow-up report — 2026-11-05
+
+On 2026-11-05, the participant reports **continuing daily administrations marked at 10 units on the previously photographed U-100 syringe**, with **almost no remaining elbow pain**. This is a description of the current routine, not a verified day-by-day administration history or clinical assessment. For a U-100 syringe, a 10-unit marking corresponds to 0.10 mL; any estimate of compound mass is conditional on the unverified label and reconstitution assumptions already documented above. **No dosing recommendation is implied.** No numerical pain score was provided on 2026-11-05, and neither complete pain resolution nor structural tendon recovery has been established.
+
+A separate retrospective observation concerns a hot dog eaten on **2026-10-29**, reportedly **before the third BPC-157 administration**. The participant reported on **2026-10-30** that the usual next-day stomach pain and malaise did not occur. This is a single symptom-free meal observation during concurrent reported retatrutide and BPC-157 exposure. It does **not** establish that BPC-157 reduces inflammation, protects the gastrointestinal tract or counteracts retatrutide adverse effects. Actual third administration time and subsequent exposure details remain unverified.
+
+The participant has not supplied an examination demonstrating reduced inflammation or tendon repair; the record documents perceived symptoms, not biological confirmation. Concurrent therapies, time, variable meals, expectation and exercise are confounders. Clinical oversight is important given the unapproved/investigational compound and prior gastrointestinal symptoms.
