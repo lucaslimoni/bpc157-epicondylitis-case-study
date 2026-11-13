@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.0 — 2026-11-13
+- Added English search terms, structured research overview and internal documentation navigation.
+- Published METHODS.md, REFERENCES.md, DATA_DICTIONARY.md and CITATION.cff for transparent methods, source verification and reusable citation metadata.
+- Distinguished self-reported observations from research evidence and clarified lack of peer review, verified compound identity and causal conclusions.
+
+
 ## 0.3.1 — 2026-11-13
 - Documented participant's near-imperceptible self-rated elbow pain (0.05 on a reported 0–100 scale), without claiming measurement precision.
 - Recorded normal exercise execution and absence of prior elbow symptoms during and after training; distinguished delayed training soreness.
