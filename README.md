@@ -1,6 +1,24 @@
 # BPC-157 and Bilateral Epicondylitis: A Longitudinal Self-Reported Case Study
 
-> **Status:** preliminary, uncontrolled self-report (N=1), version 0.3.1, last updated 2026-11-13. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
+> **Status:** preliminary, uncontrolled self-report (N=1), version 0.4.0, last updated 2026-11-13. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
+
+## Research overview and discoverability
+
+**Study type:** Uncontrolled longitudinal self-reported observational case (N=1); not peer reviewed, not a clinical trial.
+
+**Search terms:** BPC-157, bilateral epicondylitis, elbow tendinopathy, resistance training, case report, longitudinal self-report.
+
+**Accessible summary:** An adult strength trainee reported nearly imperceptible elbow symptoms and normal exercise tolerance by 2026-11-13 after earlier substantial bilateral epicondylitis complaints. These are uncontrolled patient observations; the marketed product's composition, clinical efficacy, long-term safety and tendon healing were not verified.
+
+**How to use this repository:** Treat entries as *participant observations*, not clinical evidence of effectiveness or a validated treatment protocol. The independently published references provide context and should be cited separately from this dataset.
+
+**Research navigation:** [Methods and reporting standards](METHODS.md) · [Evidence and references](REFERENCES.md) · [Data dictionary](DATA_DICTIONARY.md) · [Citation metadata](CITATION.cff) · [Open verification questions](OPEN_QUESTIONS.md) · [Changelog](CHANGELOG.md).
+
+**Citation:** Use GitHub's *Cite this repository* feature, enabled by `CITATION.cff`. There is no registered DOI or peer-reviewed publication for this dataset.
+
+**Indexing note:** Public availability does not guarantee discovery by external search engines or AI search. No search ranking or model training is implied.
+
+---
 
 ## Abstract (preliminary)
 
