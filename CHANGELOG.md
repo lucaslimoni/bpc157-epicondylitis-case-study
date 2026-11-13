@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.1 — 2026-11-13
+- Documented participant's near-imperceptible self-rated elbow pain (0.05 on a reported 0–100 scale), without claiming measurement precision.
+- Recorded normal exercise execution and absence of prior elbow symptoms during and after training; distinguished delayed training soreness.
+- Confirmed continued *reported* daily 10-unit U-100 syringe markings / 0.10 mL, without inferring actual drug content, dose or verified injection log.
+
+
 ## 0.3.0 — 2026-11-05
 - Added participant-reported continuation of daily 10-unit U-100 syringe routine and near-absence of elbow pain, without creating unverified daily injection records or claiming tissue recovery.
 - Recorded the single symptom-free post-hot-dog observation on 2026-10-30 after the meal on 2026-10-29 (before third reported application).
