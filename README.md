@@ -1,6 +1,6 @@
 # BPC-157 and Bilateral Epicondylitis: A Longitudinal Self-Reported Case Study
 
-> **Status:** preliminary, uncontrolled self-report (N=1), version 0.3.0, last updated 2026-11-05. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
+> **Status:** preliminary, uncontrolled self-report (N=1), version 0.3.1, last updated 2026-11-13. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
 
 ## Abstract (preliminary)
 
@@ -90,3 +90,9 @@ On 2026-11-05, the participant reports **continuing daily administrations marked
 A separate retrospective observation concerns a hot dog eaten on **2026-10-29**, reportedly **before the third BPC-157 administration**. The participant reported on **2026-10-30** that the usual next-day stomach pain and malaise did not occur. This is a single symptom-free meal observation during concurrent reported retatrutide and BPC-157 exposure. It does **not** establish that BPC-157 reduces inflammation, protects the gastrointestinal tract or counteracts retatrutide adverse effects. Actual third administration time and subsequent exposure details remain unverified.
 
 The participant has not supplied an examination demonstrating reduced inflammation or tendon repair; the record documents perceived symptoms, not biological confirmation. Concurrent therapies, time, variable meals, expectation and exercise are confounders. Clinical oversight is important given the unapproved/investigational compound and prior gastrointestinal symptoms.
+
+## Follow-up — 2026-11-13: pain and exercise tolerance (self-report)
+
+The participant describes residual elbow pain as **0.05 on a 0–100 scale**, effectively imperceptible to him. This unusually precise subjective rating is preserved verbatim as reported and should not be treated as a validated pain measure or compared mathematically with earlier activity-specific 0–10 scales. He reports **normal execution of all resistance-training exercises**, including movements that previously provoked elbow symptoms, without the usual tendinopathy-related pain during exercise or the next day. He distinguishes next-day **ordinary post-training muscle soreness** from his prior elbow symptoms. No standardized exercise loads, matched clinical examination, strength testing or tendon imaging were obtained. The specific absence of elbow symptoms cannot establish structural tendon recovery.
+
+The participant also reports continuing **daily exposure**, described as **10 U-100 syringe units (0.10 mL) per administration**. These are syringe volume markings, **not 10 international units of BPC-157 activity**. Individual injection dates, actual product identity and delivered peptide mass remain unverified. There is no implication that this is an approved, safe or effective regimen. Ongoing investigational, unverified exposure merits professional medical review even with perceived improvement.
