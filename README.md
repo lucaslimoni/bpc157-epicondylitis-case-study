@@ -1,6 +1,6 @@
 # BPC-157 and Bilateral Epicondylitis: A Longitudinal Self-Reported Case Study
 
-> **Status:** preliminary, uncontrolled self-report (N=1), version 0.4.0, last updated 2026-11-13. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
+> **Status:** preliminary, uncontrolled self-report (N=1), version 0.5.0, last updated 2026-11-18. **Not peer reviewed. Not medical advice.** No demonstrated causality, tendon healing, or safe/effective dosing is implied.
 
 ## Research overview and discoverability
 
@@ -114,3 +114,8 @@ The participant has not supplied an examination demonstrating reduced inflammati
 The participant describes residual elbow pain as **0.05 on a 0–100 scale**, effectively imperceptible to him. This unusually precise subjective rating is preserved verbatim as reported and should not be treated as a validated pain measure or compared mathematically with earlier activity-specific 0–10 scales. He reports **normal execution of all resistance-training exercises**, including movements that previously provoked elbow symptoms, without the usual tendinopathy-related pain during exercise or the next day. He distinguishes next-day **ordinary post-training muscle soreness** from his prior elbow symptoms. No standardized exercise loads, matched clinical examination, strength testing or tendon imaging were obtained. The specific absence of elbow symptoms cannot establish structural tendon recovery.
 
 The participant also reports continuing **daily exposure**, described as **10 U-100 syringe units (0.10 mL) per administration**. These are syringe volume markings, **not 10 international units of BPC-157 activity**. Individual injection dates, actual product identity and delivered peptide mass remain unverified. There is no implication that this is an approved, safe or effective regimen. Ongoing investigational, unverified exposure merits professional medical review even with perceived improvement.
+
+## Concurrent laboratory observation — 2026-11-11
+
+A participant-supplied laboratory report collected on **2026-11-11** has been abstracted into an [anonymized laboratory CSV](data/laboratory_2026-11-11.csv) with [comparative notes](data/lab_comparison_2026-09-16_2026-11-11.md). The comparator (**2026-09-16**) occurred before the first **reported** BPC-157 exposure on 2026-10-28, but after the reported start of concurrent retatrutide on 2026-09-14. Both substances, exercise, diet and other factors complicate attribution. In particular, the laboratory measurements do **not** establish reduction of systemic inflammation, successful tendon healing, BPC-157 pharmacological activity, or safety. The original identifiable PDF is not hosted publicly. Review of kidney-related and iron-related values and low vitamin D with a clinician is advisable.
+
