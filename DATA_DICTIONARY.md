@@ -22,3 +22,9 @@
 - `verification_status`, `notes`: uncertainty and source metadata.
 
 Do not use these records as a daily treatment log or clinical recommendation.
+
+## data/laboratory_2026-11-11.csv
+
+New longitudinal laboratory dataset: `analyte` (English machine-readable test identifier), `unit`, `previous_date`, `previous_value`, `current_date`, `current_value`, `lab_reference`, `source_pdf_page`, `source_type`, `notes`. Prior values are blank where the source report does not show a comparable 2026-09-16 result. One entry, `homa_ir_estimated`, is **derived** by fasting glucose (mg/dL) × fasting insulin (uIU/mL) / 405; it is not a directly measured laboratory analyte.
+
+See [interpretation and limitations](data/lab_comparison_2026-09-16_2026-11-11.md). The source document is not uploaded because it contains directly identifying medical information. Comparisons do not prove medication effects, inflammation reduction or long-term safety.
